@@ -6,4 +6,6 @@ Instalacion
 ===========
 Ejecutar el siguiente comando
 
-``npm install
+``` bash
+npm install 
+```
