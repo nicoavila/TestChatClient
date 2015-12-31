@@ -1,0 +1,19 @@
+{
+  "name": "test_chat_client",
+  "description": "Aplicacion de prueba chat cliente para probar el chat",
+  "main": "index.js",
+  "authors": [
+    "Nicolas Avila <navila@eclass.cl>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
